@@ -82,8 +82,7 @@
               "RelativeToolTip": "Views\\HangHoa\\UpdateNote.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T16:12:42.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T16:12:42.822Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "Views\\HangHoa\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T16:12:07.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T16:12:07.501Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "Views\\HangHoa\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T16:11:36.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T16:11:36.403Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "Views\\HangHoa\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T16:10:58.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T16:10:58.866Z"
             },
             {
               "$type": "Document",
@@ -134,8 +130,7 @@
               "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T16:10:24.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T16:10:24.891Z"
             },
             {
               "$type": "Document",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "Views\\Home\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T15:59:50.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:59:50.266Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T15:55:03.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:55:03.031Z"
             },
             {
               "$type": "Document",
@@ -173,8 +166,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:54:46.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:54:46.837Z"
             },
             {
               "$type": "Document",
@@ -186,8 +178,7 @@
               "RelativeToolTip": "Controllers\\HangHoaController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAKMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:53:20.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:53:20.034Z"
             },
             {
               "$type": "Document",
@@ -199,8 +190,7 @@
               "RelativeToolTip": "Migrations\\20250307155218_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:52:18.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:52:18.987Z"
             },
             {
               "$type": "Document",
@@ -212,8 +202,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T15:46:50.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:46:50.92Z"
             },
             {
               "$type": "Document",
@@ -225,8 +214,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:45:52.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:45:52.691Z"
             },
             {
               "$type": "Document",
@@ -236,7 +224,7 @@
               "RelativeDocumentMoniker": "Models\\GoodsDbContext.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Cau4\\Models\\GoodsDbContext.cs",
               "RelativeToolTip": "Models\\GoodsDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T15:41:38.214Z",
               "EditorCaption": ""
@@ -251,8 +239,7 @@
               "RelativeToolTip": "Models\\HangHoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:41:02.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:41:02.001Z"
             }
           ]
         }
